@@ -1,0 +1,13 @@
+-f /home/dukebody/.cache/pip/wheels/
+atomicwrites==1.2.0
+attrs==18.1.0
+Django==2.1
+more-itertools==4.3.0
+pathlib2==2.3.2
+pkg-resources==0.0.0
+pluggy==0.7.1
+py==1.5.4
+pytest==3.7.2
+pytest-django==3.4.2
+pytz==2018.5
+six==1.11.0
